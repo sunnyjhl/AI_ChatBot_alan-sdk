@@ -68,5 +68,4 @@ You may also want to try Alan AI SDKs for the following platforms and frameworks
 ## Have questions?
 
 If you have any questions or something is missing in the documentation:
-- Join [Alan AI Slack community](https://app.slack.com/client/TL55N530A) for support
-- Contact us at [support@alan.app](mailto:support@alan.app)
+- Contact us at [support@alan.app](https://www.linkedin.com/in/jayaditya-malviya/)
